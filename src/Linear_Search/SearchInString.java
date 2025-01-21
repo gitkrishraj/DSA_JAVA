@@ -1,4 +1,4 @@
-import jdk.dynalink.beans.StaticClass;
+package Linear_Search;
 
 import java.util.Arrays;
 

@@ -1,3 +1,5 @@
+package Linear_Search;
+
 public class SearchInRange {
     public static void main(String[] args) {
         int[] arr={434,767,653,675,876};

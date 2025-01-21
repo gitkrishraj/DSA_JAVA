@@ -1,3 +1,5 @@
+package Linear_Search;
+
 public class SearchInArray {
     public static void main(String[] args) {
        int[] nums= {23,54,56,76,65,56,-21,-65};
